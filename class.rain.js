@@ -15,7 +15,7 @@ class EB_RAIN{
 		this.rainDrops = [];
 		this.settings = {
 			rainDrop : {
-				count : 20,//do not change
+				count : 20,
 				height: 30,
 				color : 'blue',
 				speed : {
